@@ -1,16 +1,5 @@
-# heroku-slugs
+# Deprecated
 
-Manipulate Heroku slugs
+This project is deprecated and is no longer being maintained.
 
-## Installation
-
-    $ heroku plugins:install https://github.com/ddollar/heroku-slugs
-
-## Usage
-
-    $ heroku slugs:copy example-staging example-production
-    Copying slug from example-staging to example-production... ... done
-
-## License
-
-MIT
+Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
